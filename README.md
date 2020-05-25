@@ -1,4 +1,4 @@
-THIS DESIGN FOR PARTICULAR NET GAME , YOU need using chrome F12 tools(or similar funcion tools)to analysis structure of game
+THIS WAS DESIGNED FOR PARTICULAR NET GAME ON DEMM, YOU need using chrome F12 tools(or similar funcion tools)to analysis structure of game
 Critical links in the code all be hieded , you need modify it before unsing it
  
 
